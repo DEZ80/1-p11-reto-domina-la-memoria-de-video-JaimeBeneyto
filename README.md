@@ -8,7 +8,7 @@ Las 8 primeras fílas de pantalla, de distintos colores
 ```
 3E FF 32 00 C0 3E F0 32 00 C8 3E 0F 32 00 D0 3E 00 32 00 D8 3E FF 32 00 E0 3E F0 32 00 E8 3E 00 32 00 F0 3E 0F 32 00 F8 18 FE```
 PC: 4000
-
+```
 ## Actividad 2: Subrayar 'READY' de colores
 8 filas de píxeles de distintos colores subrayando toda la palabra de Ready (40 píxeles)
 ```
